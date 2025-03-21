@@ -1,5 +1,4 @@
 import { useState } from 'react'
-import './App.css'
 
 export default function App() {
 
@@ -7,8 +6,7 @@ export default function App() {
 
   return (
     <>
-      <div>
-      </div>
+      <nav className='bg-red-400'>NEAL</nav>
       <h1>New England Armwrestling League</h1>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
