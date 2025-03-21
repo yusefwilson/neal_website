@@ -1,21 +1,19 @@
-import { useState } from 'react'
+import Navbar from './components/Navbar'
+import Home from './pages/Home'
+
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
+import Rankings from './pages/Rankings';
 
 export default function App() {
-
-  const [count, setCount] = useState(0)
-
   return (
-    <>
-      <nav className='bg-red-400'>NEAL</nav>
-      <h1>New England Armwrestling League</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.tsx</code> and save to test HMR
-        </p>
+    <Router>
+      <div className='flex flex-col bg-slate-200 h-screen w-screen'>
+        <Navbar />
+        <Routes>
+          <Route path='/' element={<Home />} />
+          <Route path='/rankings' element={<Rankings />} />
+        </Routes>
       </div>
-    </>
-  )
+    </Router>
+  );
 }
