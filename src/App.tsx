@@ -1,3 +1,4 @@
+import Footer from './components/Footer';
 import Navbar from './components/Navbar'
 import Home from './pages/Home'
 import Rankings from './pages/Rankings';
@@ -11,7 +12,7 @@ export default function App() {
 
   useEffect(() => {
 
-    // load rankings data from json=
+    // load rankings data from json
     async function fetchData() {
       const response = await fetch('/NEALPointsList.json')
       const data = await response.json()
@@ -23,12 +24,13 @@ export default function App() {
 
   return (
     <Router>
-      <div className='flex flex-col bg-red-400 h-screen w-screen'>
+      <div className='flex flex-col bg-gray-500 h-screen w-screen'>
         <Navbar />
         <Routes>
           <Route path='/' element={<Home />} />
           <Route path='/rankings' element={<Rankings rankingsList={rankingsList} />} />
         </Routes>
+        <Footer />
       </div>
     </Router>
   );
