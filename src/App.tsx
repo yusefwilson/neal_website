@@ -4,7 +4,7 @@ import Home from './pages/Home'
 import Rankings from './pages/Rankings';
 
 import { useEffect, useState } from 'react';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
+import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-dom'
 
 export default function App() {
 
@@ -29,6 +29,7 @@ export default function App() {
         <Routes>
           <Route path='/' element={<Home />} />
           <Route path='/rankings' element={<Rankings rankingsList={rankingsList} />} />
+          <Route path='*' element={<Navigate to='/' replace />} />
         </Routes>
         <Footer />
       </div>
