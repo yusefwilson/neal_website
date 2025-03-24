@@ -1,4 +1,4 @@
-export default function Rankings({ rankingsList }: { rankingsList: { name: string, imageUrl: string, points: number }[] }) {
+export default function Rankings({ rankingsList }: { rankingsList: { name: string, imageUrl: string, points: number, rank: number }[] }) {
 
     return (
         <div className='bg-gray-500 shadow-md rounded-md overflow-y-auto flex justify-center p-8'>
@@ -11,7 +11,7 @@ export default function Rankings({ rankingsList }: { rankingsList: { name: strin
                     {
                         rankingsList.map((user, index) => (
                             <li className='flex items-center py-4 px-6 bg-orange-400'>
-                                <span className='text-gray-700 text-lg font-medium mr-4'>{(index + 1).toString() + '.'}</span>
+                                <span className='text-gray-700 text-lg font-medium mr-4'>{(user.rank).toString() + '.'}</span>
                                 <img className='w-12 h-12 rounded-full object-cover mr-4'
                                     src={user.imageUrl !== '' ? user.imageUrl : 'https://static-00.iconduck.com/assets.00/avatar-icon-2048x2048-aiocer4i.png'}
                                     alt='User avatar'
