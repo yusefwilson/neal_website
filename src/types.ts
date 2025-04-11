@@ -1,1 +1,1 @@
-export type RankingsList = { name: string, imageUrl: string, points: number, rank: number }[]
+export type RankingsList = { name: string, points: number, wins: number, rank: number }[];
