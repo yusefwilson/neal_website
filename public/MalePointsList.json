@@ -3,111 +3,133 @@
         {
             "name": "Garrett Tupper",
             "points": 20,
+            "wins": 20,
             "imageUrl": "https://scontent-bos5-1.xx.fbcdn.net/v/t39.30808-1/363356687_6633207063388670_6943712831860715450_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=108&ccb=1-7&_nc_sid=e99d92&_nc_ohc=Ot_ro6DvmZUQ7kNvgFvcdYS&_nc_oc=Adk5cTYUhTCXQ_HcUW25MPo4MgwJtEjcaoxHbEELZdF4l_HCXokTMfMpTeMjBE2bKhY&_nc_zt=24&_nc_ht=scontent-bos5-1.xx&_nc_gid=4EcVmQYFdxwE3raXFDz0YA&oh=00_AYG-uVLirn-vS9cMTc-ZGUTDBKI91cWD_w_12jBGTEQgew&oe=67E3F201"
         },
         {
             "name": "Kurt Howgate",
             "points": 20,
+            "wins": 19,
             "imageUrl": "https://scontent-bos5-1.xx.fbcdn.net/v/t39.30808-6/472210262_3170911246396521_1262885437073906208_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=Cfy1rga0UJYQ7kNvgHS_vLx&_nc_oc=AdlDiRiUhLdcnbwfJuZbWc1gydg6urbX3g1eSCLoOiC8CHaau3VJ9bXg-QstUpMCvOA&_nc_zt=23&_nc_ht=scontent-bos5-1.xx&_nc_gid=WtNvaBcy4LcfAggIkZZkeQ&oh=00_AYELLZv7NWkjPi3uWbiajodNcexBOIY5eN3UoRq1Yn1NEQ&oe=67E3F5B7"
         },
         {
             "name": "Wade Roberts",
             "points": 15,
+            "wins": 1,
             "imageUrl": ""
         },
         {
             "name": "John Bigelow",
             "points": 15,
+            "wins": 20,
             "imageUrl": "https://scontent-bos5-1.xx.fbcdn.net/v/t39.30808-6/479289857_10221879651339552_4975764961739858437_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=2snCTXjODBEQ7kNvgH_DVZg&_nc_oc=Adl6Nu-wSZiL3MKa3Ko3EMtp4jb93PtGx0sLRI64z9Rii6nyfjdK-Z1QKENSMViT63w&_nc_zt=23&_nc_ht=scontent-bos5-1.xx&_nc_gid=aS1cra5Cue6-GupcWzwSZQ&oh=00_AYFKth64erRbbGiAU0w-ObWWivbPTUnLDkzmdeXIhVgu0A&oe=67E3FA34"
         },
         {
             "name": "William Farren",
             "points": 13,
+            "wins": 20,
             "imageUrl": "https://scontent-bos5-1.xx.fbcdn.net/v/t39.30808-6/470424783_10230867451762436_6268303827173254493_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=HiC3pYYKlLkQ7kNvgEm2aBr&_nc_oc=Adn6SQ5BHq1v9quwV-QesheD_rApznkKyT69xpOsnDgF2RxZNn9_TCMqhwNNnEog7yU&_nc_zt=23&_nc_ht=scontent-bos5-1.xx&_nc_gid=6YY43r5gxPP6AlN02DWwAw&oh=00_AYFFRzN_hqH-0EoK8NEXOb3PfTsGN4oO-apXMySMyPLMMg&oe=67E3D53B"
         },
         {
             "name": "Gabe Accardi",
             "points": 10,
+            "wins": 20,
             "imageUrl": ""
         },
         {
             "name": "Mark Haggett",
             "points": 10,
+            "wins": 20,
             "imageUrl": "https://scontent-bos5-1.xx.fbcdn.net/v/t1.6435-9/144359451_10159698952487176_2944214359192156177_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=3SItAL_kDTMQ7kNvgHu3oyP&_nc_oc=AdkacQgtXRDiGSVUSSCnElQvTEt58aAE0Ma7vZ5P5czm5bkGfDHR7A5GnnikAIlgKv0&_nc_zt=23&_nc_ht=scontent-bos5-1.xx&_nc_gid=WY2ir7Nl0WwvLaO-7qjM0A&oh=00_AYFgSc-10buLqjxQAV8R3SOyU6jtKtYdT01BnXl7t6SckQ&oe=6805907B"
         },
         {
             "name": "Patrick Minuti",
             "points": 10,
+            "wins": 20,
             "imageUrl": "https://scontent-bos5-1.xx.fbcdn.net/v/t39.30808-6/462798962_1082720929864741_6180163342017095790_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=9YQfxUXGWD0Q7kNvgFEyOlC&_nc_oc=AdnYRRjUolOaTW6loT2V_3VN75KXSGq-9U2km8Mm27dlM3Xc6UPZ2ariWGqZc_EELpI&_nc_zt=23&_nc_ht=scontent-bos5-1.xx&_nc_gid=58EFg9hYQklAwIJNfHrlng&oh=00_AYE-qenNEJaIulo5kG_O6Fp9xiTSUYvyKfxLskBFh8WrOA&oe=67E3CA12"
         },
         {
             "name": "Joshua Grant",
             "points": 10,
+            "wins": 20,
             "imageUrl": "https://scontent-bos5-1.xx.fbcdn.net/v/t39.30808-6/451190686_10231330380899452_5000855959040451652_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=YLQFztDuP6UQ7kNvgEv_ikY&_nc_oc=AdmtDq164YrynDPgA0SAdd5LB0LA0kNqUDDvIR3daY5Q5Dur_nLNfbZ4TtPmyi41-oQ&_nc_zt=23&_nc_ht=scontent-bos5-1.xx&_nc_gid=q5YI9LNx1ntnhIqlUM22vQ&oh=00_AYG1O6LBPt3WZKWSFBSxD6T8fBL7HAuyIGiRQh75f_odjg&oe=67E3EF76"
         },
         {
             "name": "Sam Mitchell",
             "points": 8,
+            "wins": 20,
             "imageUrl": "https://scontent-bos5-1.xx.fbcdn.net/v/t39.30808-6/239480655_2901590026769159_4573183323018189641_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=9-Pp6qc0tIwQ7kNvgEzk5bH&_nc_oc=AdlLOgBeAk8M4PaHTPQN8zZh0SqNhhDKCiLhPsBKq6EI7PeWxVoMraL_sv0cHbaxnsc&_nc_zt=23&_nc_ht=scontent-bos5-1.xx&_nc_gid=xTiBetu-feKirO-A-wcXmw&oh=00_AYGnmsVbDbOIp_Ur05fz-1S-tSH4SGa0SthrD7D4pbGj5A&oe=67E3DE09"
         },
         {
             "name": "Carson King",
             "points": 8,
+            "wins": 20,
             "imageUrl": "https://scontent-bos5-1.xx.fbcdn.net/v/t39.30808-6/241508169_397547361852446_940348096969590512_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=dhoCGsibYYEQ7kNvgHS0stQ&_nc_oc=AdlBqMtrUKRMmzveryqagt-K7Bo1DRm6mkE4AQ7Dft8-JqbrjBRFXDp_rEY_wBdvHFU&_nc_zt=23&_nc_ht=scontent-bos5-1.xx&_nc_gid=_fwDbtrJvmwJIl34nWdCVg&oh=00_AYHn0OndT9O1NP8-UjlhCs6s7_8EkipEgpKFrhPuZppP0g&oe=67E3CF04"
         },
         {
             "name": "Bill Stella",
             "points": 8,
+            "wins": 20,
             "imageUrl": "https://scontent-bos5-1.xx.fbcdn.net/v/t39.30808-6/468560436_10235088627814030_8927295829127462414_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=s01JyMuM7C0Q7kNvgHusEP5&_nc_oc=AdkXK2K4V-q7mkpY3zIV6ApYSz08lHFDZErRhNn47yb1PhZ1sCz__O7FCDJXansA92A&_nc_zt=23&_nc_ht=scontent-bos5-1.xx&_nc_gid=w6renkKrWwP5jDJikP8dwA&oh=00_AYH6wpA0K0MVFncNPqzsw21dBRQR5nUCM0vnMRWYIbrlOw&oe=67E3E5B2"
         },
         {
             "name": "Michael Shalhoub",
             "points": 5,
+            "wins": 20,
             "imageUrl": "https://media.licdn.com/dms/image/v2/C4E03AQFZGnuJqyY1xw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1602907340672?e=1747872000&v=beta&t=udC-EiHxVWSXsw2XKjTVrgCvBvRAjLVkbHZx3on43_M"
         },
         {
             "name": "Darin Schiavone",
             "points": 5,
+            "wins": 20,
             "imageUrl": "https://scontent-bos5-1.xx.fbcdn.net/v/t39.30808-6/462586561_10169220641410156_9050817038566822601_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=bLzVBsS-tUEQ7kNvgHWnhI-&_nc_oc=Adlyf-fFBQkaksgSIzdqnAWAbRS8DzMWyFpLgZBG-JWVutwdrbfbuzv0gMJSMxlBTb4&_nc_zt=23&_nc_ht=scontent-bos5-1.xx&_nc_gid=rWqC85CcP0coQBDbt2hgUw&oh=00_AYGlLTJRIAt2NaySGcALVE0ZoIGVLdWD7c5iliY8cDanxg&oe=67E3DB16"
         },
         {
             "name": "Gustavo Dousset",
             "points": 5,
+            "wins": 20,
             "imageUrl": "https://scontent-bos5-1.xx.fbcdn.net/v/t39.30808-6/464524688_27380441854904206_1880183802793358431_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=cU8BkmKgRWcQ7kNvgEiuviF&_nc_oc=AdmEz8cgHgOS-FrE9bcvaM-QP8_6PXWNJoP_m3Pa-jMITS-V_y6PvbpX1KnoYliuJrE&_nc_zt=23&_nc_ht=scontent-bos5-1.xx&_nc_gid=ad7wPWAePe5XR2XK6TvzcQ&oh=00_AYHJ2EG3PRuJDCsOs-kaFsjxuKFs-d01OG_DTOQVdEH48g&oe=67E3D2E1"
         },
         {
             "name": "Michael Tatro",
             "points": 5,
+            "wins": 20,
             "imageUrl": "https://scontent-bos5-1.xx.fbcdn.net/v/t39.30808-6/467550958_2616576991860548_4959342598982922480_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=yVlxHmy_0pYQ7kNvgFf0Fvt&_nc_oc=AdldJLWCDd9pV-mBZCQyZUM-8ScAgyFimhedKE_81Z3C3cerwUP4EPU0edeY0C9FHrM&_nc_zt=23&_nc_ht=scontent-bos5-1.xx&_nc_gid=2NIX-LR45XfUbM9a0ljW-A&oh=00_AYGA-JH6ywbpVAIi24F3JDBEYSAJhFbUPD0EU3XmmNrs0w&oe=67E3F584"
         },
         {
             "name": "Narciso Pavon",
             "points": 3,
+            "wins": 20,
             "imageUrl": ""
         },
         {
             "name": "Dmitri Vlismas",
             "points": 3,
+            "wins": 20,
             "imageUrl": ""
         },
         {
             "name": "Ron Ermini",
             "points": 3,
+            "wins": 20,
             "imageUrl": "https://scontent-bos5-1.xx.fbcdn.net/v/t39.30808-1/241764792_152069593773000_8760046990565164823_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=103&ccb=1-7&_nc_sid=e99d92&_nc_ohc=ABNRTFixCagQ7kNvgE6JOLe&_nc_oc=Adnj6eAJ4iXrfgdOVuUDy02za9ADuxh0rs-ny3vJ9YxR3Me7L41D5nlQqxk1E6rsWz0&_nc_zt=24&_nc_ht=scontent-bos5-1.xx&_nc_gid=eLqIKcj8nsWIVIXBVoBLlw&oh=00_AYGHbz7BERCy2M6HeM3stbvy4k_gl1TYeJdJczcqAgVogw&oe=67E3F7CB"
         },
         {
             "name": "Brenden Peasley",
             "points": 3,
+            "wins": 20,
             "imageUrl": "https://scontent-bos5-1.xx.fbcdn.net/v/t39.30808-6/474507952_28737993552465626_7665319818744815716_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=l3gX8sxUG-IQ7kNvgESAk0e&_nc_oc=AdkZyaueJKvKN6dhk_2fHFQylHjTcrrSYbf_fFX8MmTAgMNHpmSfKXtCY6VJsMKUyYM&_nc_zt=23&_nc_ht=scontent-bos5-1.xx&_nc_gid=LtumPPiRF9VmzFPNN55rsQ&oh=00_AYG4AAcPikRfqYEaFppOEdfpEumOrT5kJmrb2DVguL2O7g&oe=67E3F1C6"
         },
         {
             "name": "Joe FitzSimmons",
             "points": 3,
+            "wins": 20,
             "imageUrl": "https://scontent-bos5-1.xx.fbcdn.net/v/t39.30808-6/239406677_1770008356525338_3062477082852194516_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=Ck2GdGCpShgQ7kNvgHLH6SD&_nc_oc=AdkR9OeE1ZcCcJv3tm6LCyhtcZ6e7CqpCPc2G9y-nEOBpn7paYhT4TBWLjK-7YnSmoo&_nc_zt=23&_nc_ht=scontent-bos5-1.xx&_nc_gid=MTGfJI0FozU5B0dtKblszA&oh=00_AYHjHegQx60CMBDYSWUAv6an04oMkJqKQVqD3eeEaDxG7g&oe=67E3F309"
         },
         {
             "name": "Jeremy Dear",
             "points": 3,
+            "wins": 20,
             "imageUrl": "https://scontent-bos5-1.xx.fbcdn.net/v/t39.30808-6/461258156_2454051011454565_2070770058790236019_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=jdzSet8KWyIQ7kNvgEjmCM3&_nc_oc=AdnAWRVsGezyC1YNzL7YVYxfY659FCoz5p8cq4LO67kI8pkiNGbQHSsUX5Hd1-_nx2A&_nc_zt=23&_nc_ht=scontent-bos5-1.xx&_nc_gid=Kf_jbyG-HN382d49w8ndFA&oh=00_AYHkHYwnx_M0tdg2pcXogNuRzIlgw3krX87pyMb4cCXG7A&oe=67E3D54E"
         }
     ]

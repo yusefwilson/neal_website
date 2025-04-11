@@ -1,0 +1,16 @@
+{
+    "list": [
+        {
+            "name": "Marisol Vidal",
+            "points": 20,
+            "wins": 4,
+            "imageUrl": "https://scontent-bos5-1.xx.fbcdn.net/v/t39.30808-1/363356687_6633207063388670_6943712831860715450_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=108&ccb=1-7&_nc_sid=e99d92&_nc_ohc=Ot_ro6DvmZUQ7kNvgFvcdYS&_nc_oc=Adk5cTYUhTCXQ_HcUW25MPo4MgwJtEjcaoxHbEELZdF4l_HCXokTMfMpTeMjBE2bKhY&_nc_zt=24&_nc_ht=scontent-bos5-1.xx&_nc_gid=4EcVmQYFdxwE3raXFDz0YA&oh=00_AYG-uVLirn-vS9cMTc-ZGUTDBKI91cWD_w_12jBGTEQgew&oe=67E3F201"
+        },
+        {
+            "name": "Rachel Fitzsimmons",
+            "points": 10,
+            "wins": 0,
+            "imageUrl": "https://scontent-bos5-1.xx.fbcdn.net/v/t39.30808-6/472210262_3170911246396521_1262885437073906208_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=Cfy1rga0UJYQ7kNvgHS_vLx&_nc_oc=AdlDiRiUhLdcnbwfJuZbWc1gydg6urbX3g1eSCLoOiC8CHaau3VJ9bXg-QstUpMCvOA&_nc_zt=23&_nc_ht=scontent-bos5-1.xx&_nc_gid=WtNvaBcy4LcfAggIkZZkeQ&oh=00_AYELLZv7NWkjPi3uWbiajodNcexBOIY5eN3UoRq1Yn1NEQ&oe=67E3F5B7"
+        }
+    ]
+}
