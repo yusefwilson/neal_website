@@ -1,8 +1,8 @@
-import { RankingsList } from "../types";
+import { RankingsList } from '../types';
 
 export default function RankingList({ title, rankingsList }: { title: string, rankingsList: RankingsList }) {
     return (
-        <div className="flex flex-col bg-gray-200 shadow-md rounded-md overflow-y-auto w-full max-w-2xl mx-auto p-8 mb-4">
+        <div className='flex flex-col bg-gray-200 shadow-md rounded-md overflow-y-auto w-full max-w-2xl mx-auto p-8 mb-4'>
             <h2 className='text-xl font-semibold mb-4 text-center'>{title}</h2>
             <ul className='flex flex-col gap-4'>
                 {
@@ -11,7 +11,7 @@ export default function RankingList({ title, rankingsList }: { title: string, ra
                             <span className='text-gray-700 text-lg font-medium mr-4'>{(user.rank).toString() + '.'}</span>
                             <img className='w-12 h-12 rounded-full object-cover mr-4'
                                 src={`/img/pullers/${user.name.replace(/\s+/g, '_')}.jpg`}
-                                alt="User avatar"
+                                alt='User avatar'
                                 onError={(e) => {
                                     const target = e.target as HTMLImageElement;
                                     target.onerror = null; // prevent infinite loop

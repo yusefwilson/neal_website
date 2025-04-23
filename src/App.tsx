@@ -6,31 +6,7 @@ import Rankings from './pages/Rankings';
 import { useEffect, useState } from 'react';
 import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-dom'
 import { RankingsList } from './types';
-
-const produceRankings = (rawRankings: { name: string, imageUrl: string, points: number, wins: number }[]): RankingsList => {
-  // sort rankings by points
-  const sortedRankings = rawRankings.sort((a, b) => b.points !== a.points ? b.points - a.points : b.wins - a.wins);
-
-  const newRankings = [];
-
-  // add rank to each object
-  let currentRank = 1;
-  let currentPoints = sortedRankings[0].points;
-  let currentWins = sortedRankings[0].wins;
-
-  for (let i = 0; i < sortedRankings.length; i++) {
-    if (sortedRankings[i].points === currentPoints && sortedRankings[i].wins === currentWins) {
-      newRankings.push({ ...sortedRankings[i], rank: currentRank });
-    }
-    else {
-      currentRank = i + 1;
-      currentPoints = sortedRankings[i].points;
-      newRankings.push({ ...sortedRankings[i], rank: currentRank });
-    }
-  }
-
-  return newRankings;
-}
+import { produceRankings } from './utils';
 
 export default function App() {
 

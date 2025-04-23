@@ -3,112 +3,112 @@
         {
             "name": "Garrett Tupper",
             "points": 20,
-            "wins": 20
+            "wins": 10
         },
         {
             "name": "Kurt Howgate",
             "points": 20,
-            "wins": 19
+            "wins": 6
         },
         {
             "name": "Wade Roberts",
             "points": 15,
-            "wins": 1
+            "wins": 7
         },
         {
             "name": "John Bigelow",
             "points": 15,
-            "wins": 20
+            "wins": 4
         },
         {
             "name": "William Farren",
             "points": 13,
-            "wins": 20
+            "wins": 8
         },
         {
             "name": "Gabe Accardi",
             "points": 10,
-            "wins": 20
+            "wins": 4
         },
         {
             "name": "Mark Haggett",
             "points": 10,
-            "wins": 20
+            "wins": 4
         },
         {
             "name": "Patrick Minuti",
             "points": 10,
-            "wins": 20
+            "wins": 8
         },
         {
             "name": "Joshua Grant",
             "points": 10,
-            "wins": 20
+            "wins": 4
         },
         {
             "name": "Sam Mitchell",
             "points": 8,
-            "wins": 20
+            "wins": 6
         },
         {
             "name": "Carson King",
             "points": 8,
-            "wins": 20
+            "wins": 7
         },
         {
             "name": "Bill Stella",
             "points": 8,
-            "wins": 20
+            "wins": 2
         },
         {
             "name": "Michael Shalhoub",
             "points": 5,
-            "wins": 20
+            "wins": 4
         },
         {
             "name": "Darin Schiavone",
             "points": 5,
-            "wins": 20
+            "wins": 2
         },
         {
             "name": "Gustavo Dousset",
             "points": 5,
-            "wins": 20
+            "wins": 4
         },
         {
             "name": "Michael Tatro",
             "points": 5,
-            "wins": 20
+            "wins": 2
         },
         {
             "name": "Narciso Pavon",
             "points": 3,
-            "wins": 20
+            "wins": 2
         },
         {
             "name": "Dmitri Vlismas",
             "points": 3,
-            "wins": 20
+            "wins": 2
         },
         {
             "name": "Ron Ermini",
             "points": 3,
-            "wins": 20
+            "wins": 2
         },
         {
             "name": "Brenden Peasley",
             "points": 3,
-            "wins": 20
+            "wins": 2
         },
         {
             "name": "Joe Fitzsimmons",
             "points": 3,
-            "wins": 20
+            "wins": 0
         },
         {
             "name": "Jeremy Dear",
             "points": 3,
-            "wins": 20
+            "wins": 0
         }
     ]
 }
