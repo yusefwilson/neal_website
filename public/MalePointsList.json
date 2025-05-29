@@ -2,13 +2,13 @@
     "list": [
         {
             "name": "Garrett Tupper",
-            "points": 20,
-            "wins": 10
+            "points": 40,
+            "wins": 18
         },
         {
             "name": "Kurt Howgate",
-            "points": 20,
-            "wins": 6
+            "points": 40,
+            "wins": 11
         },
         {
             "name": "Wade Roberts",
@@ -32,23 +32,23 @@
         },
         {
             "name": "Mark Haggett",
-            "points": 10,
-            "wins": 4
+            "points": 16,
+            "wins": 9
         },
         {
             "name": "Patrick Minuti",
-            "points": 10,
-            "wins": 8
+            "points": 20,
+            "wins": 11
         },
         {
             "name": "Joshua Grant",
-            "points": 10,
-            "wins": 4
+            "points": 20,
+            "wins": 11
         },
         {
             "name": "Sam Mitchell",
-            "points": 8,
-            "wins": 6
+            "points": 28,
+            "wins": 13
         },
         {
             "name": "Carson King",
@@ -67,17 +67,67 @@
         },
         {
             "name": "Darin Schiavone",
-            "points": 5,
-            "wins": 2
+            "points": 8,
+            "wins": 4
         },
         {
             "name": "Gustavo Dousset",
-            "points": 5,
-            "wins": 4
+            "points": 15,
+            "wins": 8
+        },
+        {
+            "name": "Andrew Weber",
+            "points": 6,
+            "wins": 0
+        },
+        {
+            "name": "Jason Foreman",
+            "points": 10,
+            "wins": 3
+        },
+        {
+            "name": "James Rhodes-Mason",
+            "points": 15,
+            "wins": 2
+        },
+        {
+            "name": "Rakhat Kabilov",
+            "points": 20,
+            "wins": 12
+        },
+        {
+            "name": "Ben Ciampoli",
+            "points": 15,
+            "wins": 5
         },
         {
             "name": "Michael Tatro",
             "points": 5,
+            "wins": 2
+        },
+        {
+            "name": "Jared Theriault",
+            "points": 3,
+            "wins": 1
+        },
+        {
+            "name": "Caleb Gennell",
+            "points": 3,
+            "wins": 1
+        },
+        {
+            "name": "Jeremy Meservey",
+            "points": 10,
+            "wins": 7
+        },
+        {
+            "name": "Tyler Edelen",
+            "points": 3,
+            "wins": 2
+        },
+        {
+            "name": "Colton Swale",
+            "points": 3,
             "wins": 2
         },
         {

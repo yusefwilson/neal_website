@@ -22,7 +22,7 @@ export default function RankingList({ title, rankingsList }: { title: string, ra
                                 <p className='text-lg font-medium'>{user.name}</p>
                                 <div className='flex flex-row gap-2'>
                                     <p className='text-base'>{user.points.toString() + ' points, '}</p>
-                                    <p className='text-base'>{user.wins.toString() + ' wins'}</p>
+                                    <p className='text-base'>{user.wins.toString() + ' win' + (user.wins === 1 ? '' : 's')}</p>
                                 </div>
                             </div>
                         </li>
