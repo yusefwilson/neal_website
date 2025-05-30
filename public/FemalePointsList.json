@@ -1,6 +1,22 @@
 {
     "list": [
         {
+            "name": "Kyla Ward",
+            "points": 10,
+            "wins": 2
+        },
+        {
+            "name": "Lydia Tupper",
+            "points": 5,
+            "wins": 2
+        }
+        ,
+        {
+            "name": "Carolyn Loomes",
+            "points": 3,
+            "wins": 0
+        },
+        {
             "name": "Marisol Vidal",
             "points": 20,
             "wins": 4
