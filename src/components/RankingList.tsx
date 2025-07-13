@@ -16,7 +16,9 @@ export default function RankingList({ title, rankingsList }: { title: string, ra
                                     onError={(e) => {
                                         const target = e.target as HTMLImageElement;
                                         target.onerror = null; // prevent infinite loop
-                                        target.src = 'https://static-00.iconduck.com/assets.00/avatar-icon-2048x2048-aiocer4i.png';
+                                        target.src = '/img/pullers/Default_Avatar.png';
+                                        target.width = 256;
+                                        target.height = 256;
                                     }}
                                 />
                             </div>

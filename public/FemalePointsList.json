@@ -7,10 +7,9 @@
         },
         {
             "name": "Lydia Tupper",
-            "points": 5,
-            "wins": 2
-        }
-        ,
+            "points": 25,
+            "wins": 7
+        },
         {
             "name": "Carolyn Loomes",
             "points": 3,
@@ -24,6 +23,16 @@
         {
             "name": "Rachael Fitzsimmons",
             "points": 10,
+            "wins": 0
+        },
+        {
+            "name": "Leanna Bushey",
+            "points": 5,
+            "wins": 1
+        },
+        {
+            "name": "Elisabeth Bushey",
+            "points": 8,
             "wins": 0
         }
     ]
