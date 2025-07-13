@@ -2,13 +2,13 @@
     "list": [
         {
             "name": "Garrett Tupper",
-            "points": 40,
-            "wins": 18
+            "points": 55,
+            "wins": 24
         },
         {
             "name": "Kurt Howgate",
-            "points": 40,
-            "wins": 11
+            "points": 55,
+            "wins": 14
         },
         {
             "name": "Wade Roberts",
@@ -47,8 +47,8 @@
         },
         {
             "name": "Sam Mitchell",
-            "points": 28,
-            "wins": 13
+            "points": 48,
+            "wins": 20
         },
         {
             "name": "Carson King",
@@ -72,12 +72,12 @@
         },
         {
             "name": "Gustavo Dousset",
-            "points": 15,
-            "wins": 8
+            "points": 25,
+            "wins": 12
         },
         {
             "name": "Andrew Weber",
-            "points": 6,
+            "points": 12,
             "wins": 0
         },
         {
@@ -92,8 +92,8 @@
         },
         {
             "name": "Rakhat Kabilov",
-            "points": 20,
-            "wins": 12
+            "points": 40,
+            "wins": 18
         },
         {
             "name": "Ben Ciampoli",
@@ -102,7 +102,7 @@
         },
         {
             "name": "Michael Tatro",
-            "points": 5,
+            "points": 8,
             "wins": 2
         },
         {
@@ -142,8 +142,8 @@
         },
         {
             "name": "Ron Ermini",
-            "points": 3,
-            "wins": 2
+            "points": 6,
+            "wins": 4
         },
         {
             "name": "Brenden Peasley",
@@ -159,6 +159,56 @@
             "name": "Jeremy Dear",
             "points": 3,
             "wins": 0
+        },
+        {
+            "name": "Glenn Tupper",
+            "points": 6,
+            "wins": 2
+        },
+        {
+            "name": "Owen Genereux",
+            "points": 15,
+            "wins": 5
+        },
+        {
+            "name": "Michael Camire",
+            "points": 5,
+            "wins": 4
+        },
+        {
+            "name": "Timothy Bushey",
+            "points": 3,
+            "wins": 1
+        },
+        {
+            "name": "Aaron Mozsgae",
+            "points": 5,
+            "wins": 2
+        },
+        {
+            "name": "Gavin Orth",
+            "points": 3,
+            "wins": 1
+        },
+        {
+            "name": "Victor Lasorsa",
+            "points": 5,
+            "wins": 3
+        },
+        {
+            "name": "Matthew Wenzel",
+            "points": 8,
+            "wins": 7
+        },
+        {
+            "name": "Andre Evangelista",
+            "points": 20,
+            "wins": 5
+        },
+        {
+            "name": "James Clark Jr",
+            "points": 15,
+            "wins": 5
         }
     ]
 }
